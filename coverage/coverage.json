@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "78.18%",
+    "missed": 1547,
+    "total": 7089
+  },
+  "generated_at": "2026-11-18T07:45:27Z",
+  "lines": {
+    "coverage": "80.75%",
+    "missed": 11471,
+    "total": 59581
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "77.35%",
+    "missed": 14087,
+    "total": 62197
+  },
+  "run_url": "https://github.com/Justinhubbard37/AgentENV/actions/runs/44252455925"
+}
